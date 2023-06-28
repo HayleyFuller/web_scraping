@@ -1,4 +1,4 @@
-# Data Collection: web-scraping
+# Web-scraping challenge
 
 ## Instructions
 
