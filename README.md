@@ -4,7 +4,7 @@
 
 This challenge is split into two parts
 
-- Part 1: Scrap titles and preview text from Mars news
+- Part 1: Scrape titles and preview text from Mars news
 
 - Part 2:Scrape and Analyze Mars Weather Data
 
