@@ -2,6 +2,12 @@
 
 ## Instructions
 
+This challenge is split into two parts
+
+- Part 1: Scrap titles and preview text from Mars news
+
+- Part 2:Scrape and Analyze Mars Weather Data
+
 ## Part 1: Scrape Titles and Preview Text from Mars News
 
 Use the Jupyter Notebook in the starter code to follow the steps below to scrape the Mars News website.
